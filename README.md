@@ -13,3 +13,4 @@ specify the root directory of the project. when resolve src like `/d1/a.js`, nhr
 
 + -d, --dest  
 
+## issue
