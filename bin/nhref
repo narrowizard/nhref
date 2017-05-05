@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require("../lib/index.js").handler()
+require("../lib/index.js");
