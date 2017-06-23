@@ -13,4 +13,7 @@ specify the root directory of the project. when resolve src like `/d1/a.js`, nhr
 
 + -d, --dest  
 
++ -t, --type (resolve type)  
+`browser` or `regexp`
+
 ## issue
