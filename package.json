@@ -1,6 +1,6 @@
 {
   "name": "nhref",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "add hash to html script tag src attribute, in order to avoid brower cache.",
   "main": "./lib/index.js",
   "dependencies": {
