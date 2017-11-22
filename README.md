@@ -17,3 +17,6 @@ specify the root directory of the project. when resolve src like `/d1/a.js`, nhr
 `browser` or `regexp`
 
 ## issue
+
+## notice 
+bin/nhref: change CRLF to LF before publish on windows
